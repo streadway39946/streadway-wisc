@@ -1,3 +1,1 @@
-## Hello, world! 👋
-
-I am currently a master's student at the University of Wisconsin-Madison, studying for the Business: Data, Insights, and Analytics degree. I have a Bachelor of Science in Computer Information Systems from Missouri State University and almost ten years of experience working in software quality assurance automation. I plan on adding examples of my analytics work here - expect to see plenty of SQL, Python, and Excel. Thank you for taking a look!
+This repository is used to store files needed for University of Wisconsin-Madison coursework.
